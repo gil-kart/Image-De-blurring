@@ -27,7 +27,7 @@ Click on  **Image-DeBlurring.ipynb**
 and then, by running all the blocks of the given code, you will train a model that can deblur blurred images.
 
 after running all the blocks of code, here are the results of the deblurred images:
-#for the train set
+# for the train set
 ## clean train images
 ![clean train](https://user-images.githubusercontent.com/73134488/189110301-b4cca384-e14e-4475-b2ff-208943d53c96.jpg)
 ## blurry train images
