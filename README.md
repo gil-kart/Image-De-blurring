@@ -1,5 +1,5 @@
 # Image-De-blurring
-Image De-blurring with a Neural Network
+Image De-blurring with a Convolutional Neural Network
 
 This is a university project I did while taking the course Computer Vision. 
 
